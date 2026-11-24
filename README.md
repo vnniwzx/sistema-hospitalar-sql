@@ -301,4 +301,4 @@ O arquivo [`sql/04_consultas.sql`](sql/04_consultas.sql) tem **20 consultas come
 
 ## 👤 Autor
 
-Feito por **SEU NOME**: [LinkedIn](https://www.linkedin.com/in/SEU-PERFIL) · [GitHub](https://github.com/SEU-USUARIO)
+Feito por **VINICIUS FURTADO**: [LinkedIn](https://www.linkedin.com/in/vifurtado/) · [GitHub](https://github.com/vnniwzx)
